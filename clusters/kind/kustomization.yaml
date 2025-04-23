@@ -1,3 +1,0 @@
-resources:
-  - flux-system
-  - my-app.yaml   # This is a Flux Kustomization CRD
